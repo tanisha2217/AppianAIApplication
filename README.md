@@ -8,7 +8,7 @@ Customer satisfaction: Faster processing, consistent service
 
 Data-driven decisions: Risk-free scenario testing, faster actions
 
-Conclusion:
+## Conclusion:
 
 Proactive Operations: Predict & prevent problems
 
@@ -42,14 +42,20 @@ Future-Ready: Continuous monitoring & optimization
 ## How to run
 
 1.Backend Setup
+
 Run the backend server:
+
 python backend/backend_api.py
 
 
 2. Frontend Setup
+
 Navigate to the frontend folder:
+
 cd frontend
+
 Install dependencies:
+
 npm install
 Run the frontend server:
 npm run dev
