@@ -48,7 +48,7 @@ Run the backend server:
 python backend/backend_api.py
 
 
-2. Frontend Setup
+2.Frontend Setup
 
 Navigate to the frontend folder:
 
