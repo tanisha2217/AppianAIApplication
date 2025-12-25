@@ -1,4 +1,4 @@
-Impact:
+## Impact:
 
 Fewer SLA breaches: 60–80% reduction → saves costs
 Better efficiency: Optimize staff, prevent under/over-staffing
@@ -31,7 +31,7 @@ Future-Ready: Continuous monitoring & optimization
 
 ---
 
-# How to run
+## How to run
 
 1.Backend Setup
 Run the backend server:
